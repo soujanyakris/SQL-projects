@@ -1,14 +1,19 @@
-# SQL Projects
+# 📊 SQL Data Analytics Projects
 
-## **Introduction**
+**About This Repository**
+This repository contains end-to-end data analytics projects leveraging SQL to extract, transform, and derive insights from raw data. Each project demonstrates real-world problem-solving through data exploration, cleaning, and analysis—showcasing proficiency in SQL and complementary tools like Excel.
 
-This repository illustrates the different Data Analytics projects in the Data Analytics portfolio SQL
+**🔍 Projects Overview**
 
-### **Project 1**
+**1. COVID-19 Data Exploration**
+📌 Objective: Analyze global pandemic trends to uncover infection rates, mortality patterns, and vaccination progress.
+🛠 SQL Skills Applied:
 
-Data Life cycle:
+Data aggregation (GROUP BY, SUM, COUNT)
 
-Step 1: Preparing and exploring Data:
+Table joins (INNER JOIN, LEFT JOIN)
 
-COVID 19 Data exploration - Conducted data exploration and analysis of worldwide COVID data using SQL functions such as SELECT, GROUP BY and JOINS functions.
-Excel Data analysis project - A data analysis project showcasing data analysis steps such as cleaning and formatting data, data aggregation, using conditional formatting, IF statements, pivot tables and Vlookup.
+Window functions for rolling metrics
+
+Conditional filtering (WHERE, CASE WHEN)
+📂 Dataset: Public COVID-19 records (cases, deaths, vaccinations).
